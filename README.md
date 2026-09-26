@@ -1,107 +1,168 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Abdelkhalek Ahmed 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+💻 **Web Developer | Programmer | Content Creator**
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+I'm **Abdelkhalek Ahmed**, a programmer and web developer passionate about building websites, applications, tools, and learning new technologies.
 
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Ship more!!
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
-<br />
-<br />
+I work with multiple programming languages and technologies, including web development, databases, desktop/software development, and low-level programming.
 
 ---
 
-### 📺 Latest YouTube Videos
+## 🚀 About Me
 
-<!-- YOUTUBE:START -->
-- [I Tested Gemini 3.8 Flash Lite TTS &lpar;It&#39;s Actually Realistic!&rpar;](https://www.youtube.com/watch?v=PmbLRNAlQKo)
-- [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
-- [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
-- [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
-- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [It’s Happening! Vercel 🤝 MongoDB](https://dev.to/mongodb/its-happening-vercel-mongodb-4527)
-- [The OpenAI Agents SDK for TypeScript is Missing Something—And That’s Ok](https://dev.to/mongodb/the-openai-agents-sdk-for-typescript-is-missing-something-and-thats-ok-1dco)
-- [Building a Chat Application That Doesn&#39;t Forget!](https://dev.to/mongodb/building-a-chat-application-with-mongodb-memory-provider-for-vercel-ai-sdk-56ap)
-- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
-- [Top 8 Tips for Using Prisma with MongoDB](https://dev.to/mongodb/top-8-tips-for-using-prisma-with-mongodb-582f)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
+* 💻 I'm a **Web Developer & Programmer**
+* 🌐 I build websites and web applications
+* 🎥 I create **programming and technology content on YouTube**
+* 🧠 I enjoy learning new programming languages and technologies
+* 🛠️ I like building projects from scratch
+* 🎮 Interested in game development and software development
+* 🔐 Interested in programming, cybersecurity, and technology
+* 🚀 Always working on new projects and ideas
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/2) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-2. 💪 Opened PR [#2](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/2) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-3. 🚀 Published release [v0.1.0](https://github.com/codeSTACKr/anti-slop-slop-canon/releases/tag/v0.1.0) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-4. 🎉 Merged PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-5. 💪 Opened PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-<!--END_SECTION:activity-->
+## 🧑‍💻 Languages & Technologies
 
-</details>
+### 🌐 Web Development
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP">
+</p>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+**HTML • CSS • JavaScript • PHP**
 
-</details>
+### 🗄️ Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite">
+</p>
+
+**SQL • MySQL • SQLite**
+
+### ⚙️ Programming Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java">
+</p>
+
+**C • C++ • C# • Java**
+
+---
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
+</p>
+
+**Git • GitHub • VS Code • Command Line**
+
+---
+
+## 📂 What I Build
+
+* 🌐 Websites
+* 🖥️ Web Applications
+* ⚙️ Programming Tools
+* 🗄️ Database Projects
+* 🎮 Game Development Projects
+* 🔐 Cybersecurity Learning Projects
+* 🤖 AI & Programming Projects
+* 🧪 Experimental Projects
+
+---
+
+## 🎥 YouTube
+
+I also create content about:
+
+* 💻 Programming
+* 🌐 Web Development
+* 🛠️ Projects
+* 🤖 AI & Technology
+* 🎮 Game Development
+* 🔐 Cybersecurity
+* 📚 Learning Programming
+
+### 📺 My YouTube Channel
+
+➡️ **[YouTube Channel](YOUR_YOUTUBE_LINK)**
+
+---
+
+## 🌟 Featured Projects
+
+<!-- Add your best projects here -->
+
+### 🚀 Project 1
+
+**Coming soon...**
+
+### 🚀 Project 2
+
+**Coming soon...**
+
+### 🚀 Project 3
+
+**Coming soon...**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&theme=tokyonight" alt="Abdelkhalek's GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages">
+
+</p>
+
+---
+
+## 📈 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak">
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_YOUTUBE_LINK">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" alt="YouTube">
+</a>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub">
+</a>
+
+</p>
+
+---
+
+## 💡 My Goal
+
+> **Learn. Build. Share. Repeat.**
+
+I'm constantly learning, building projects, experimenting with new technologies, and sharing what I learn with others.
+
+---
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+Thanks for visiting my profile! 🚀
